@@ -1,6 +1,7 @@
 ## Flutter
 
-For Details Screenshots see [this](https://github.com/Ali1raz/flutter_dev_full_stack/blob/master/tasks_full_stack/student_frontend/README.md)
+For students app Details and Screenshots see [this](https://github.com/Ali1raz/flutter_dev_full_stack/blob/master/tasks_full_stack/student_frontend/README.md)
+For admin app details and screenshots see [admin frontend](https://github.com/Ali1raz/flutter_dev_full_stack/blob/master/tasks_full_stack/admin_frontend/README.md)
 
 # Student Task Tracker App 📚
 
